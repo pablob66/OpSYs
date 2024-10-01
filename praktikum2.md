@@ -1,0 +1,1 @@
+Selles praktikumis ma sain harjutada oma linuxi keskonna kasutamist läbi ubuntu. See polnud mu esimene kogemus nende käsuridadega kuna kasutan oma pealmise arvutina Mac-i. Praktikumi lõpuks lahendasin automaat kontrolliga käsuridade ülessande.
